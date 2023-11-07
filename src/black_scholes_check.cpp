@@ -1,5 +1,6 @@
 #include <ql/quantlib.hpp>
 #include <memory>
+#include <cassert>
 
 using namespace QuantLib;
 
